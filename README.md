@@ -1,2 +1,2 @@
 # portfolio
-about me
+https://1ambottom.github.io/portfolio/
